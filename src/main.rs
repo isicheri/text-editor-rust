@@ -2,12 +2,10 @@ mod editor;
 mod iterator;
 mod hashmapstruct;
 use editor::Editor;
-use iterator::MyIterator;
 
 #[warn(clippy::all, clippy::pedantic)]
 fn main() {
-    let editor = Editor::default();
-     editor.run();
+  Editor::default().run();
      
    //   let mut _iterator = MyIterator {
    //      current: 0,
