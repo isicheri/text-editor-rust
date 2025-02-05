@@ -1,1 +1,1 @@
-C:\Users\OWNER\Desktop\rust-text-editor\target\debug\rust-text-editor.exe: C:\Users\OWNER\Desktop\rust-text-editor\src\editor.rs C:\Users\OWNER\Desktop\rust-text-editor\src\hashmapstruct.rs C:\Users\OWNER\Desktop\rust-text-editor\src\iterator.rs C:\Users\OWNER\Desktop\rust-text-editor\src\main.rs
+C:\Users\OWNER\Desktop\text-editor-rust\target\debug\rust-text-editor.exe: C:\Users\OWNER\Desktop\text-editor-rust\src\editor\terminal.rs C:\Users\OWNER\Desktop\text-editor-rust\src\editor.rs C:\Users\OWNER\Desktop\text-editor-rust\src\main.rs
